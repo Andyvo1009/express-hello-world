@@ -8,9 +8,11 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo 'No tests defined' && exit 0"
   },
   "dependencies": {
     "express": "^5.0.0"
   }
+  
 }
